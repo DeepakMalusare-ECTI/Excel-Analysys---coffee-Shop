@@ -17,7 +17,9 @@ This repository contains an Excel file for analyzing sales data of a coffee shop
 3. **Analysis**: Navigate through different sheets to analyze various aspects of your coffee shop sales.
 4. **Charts**: Charts and graphs are dynamically linked to the data. Simply update the data, and the charts will update automatically.
 
-![Dashboard Screenshot](Final Dashboard.png)
+
+![Dashboard Screenshot](Final%20Dashboard.png)
+
 **Requirements** : 
 
 Microsoft Excel 
